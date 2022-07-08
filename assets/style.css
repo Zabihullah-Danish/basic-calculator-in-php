@@ -1,0 +1,41 @@
+body{
+    margin:0px;
+}
+
+
+.container{
+    width:1000px;
+    margin: 0 auto;
+    padding:5px;
+    padding-top:50px;
+    border:1px solid lightgray;
+    border-radius:10px;
+}
+#calculator{
+    color:blue;
+    background-color:lightgray;
+    text-align:center;
+}
+.inputs-form{
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+
+    
+}
+
+.inputs-form .inputs{
+    margin:5px;
+    
+}
+
+.inputs-form .operatinos{
+    padding-left:10px;
+    
+}
+
+#one{
+    color:blue;
+    background-color:lightgray;
+    text-align:center;
+}
